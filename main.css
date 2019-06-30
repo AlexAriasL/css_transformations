@@ -1,0 +1,15 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #7B68EE;
+  
+ 
+}
+
+.box:hover{
+    width: 200px;
+    height:200px;
+    transition-duration: 2s;
+    transition-delay: 1s;
+    transition-timing-function: ease-in;
+} 
